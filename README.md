@@ -1,6 +1,8 @@
 # Ignite  Timer
 Pomodoro timer SPA feito em React + TypeScript
 
+[Live Demo](https://ignite-timer-wine.vercel.app)
+
 ## O que eu estudei nesse projeto:
 
 - React Router DOM - Roteamento de páginas.
